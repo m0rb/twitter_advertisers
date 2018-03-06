@@ -140,6 +140,7 @@ BuzzFeedNews
 buzzfeedpartner
 C2International
 CAASCO
+Cadillac
 Calabrio
 CallofDuty
 CamletMount
@@ -516,7 +517,7 @@ IBMpolicy
 IBMSecurity
 ICE_Markets
 IDGTechTalk
-IDGTechTalkAU
+IDGTECHtalkAU
 im_a_developer
 ImmoVerkauf_de
 impelo_io
@@ -1127,8 +1128,6 @@ turbotax
 TweetDeck
 twilio
 Twitter
-Twitteradsita
-TwitterAdsNL
 TwitterBusiness
 TwitterDev
 TwitterIsrael
