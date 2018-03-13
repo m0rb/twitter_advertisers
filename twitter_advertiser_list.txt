@@ -1,7 +1,6 @@
 0patch
 13hours
 2020Companies
-221films
 23andMe
 3DRobotics
 76
@@ -317,7 +316,6 @@ DriveMaven
 Dropbox
 DropboxBusiness
 dunkindonuts
-DwissWatch
 Dynatrace_Ruxit
 EAAccess
 EA_Benelux
@@ -377,6 +375,7 @@ fisherinvest
 fitbit
 fiverr
 FixAutoUSA
+flagfootball4
 flightdelays
 flonase
 FluentConf
@@ -608,7 +607,6 @@ kpmguk
 kraftcheese
 krispykreme
 KristelTalent
-krowdster
 LandRoverUSA
 larrykim
 latimes
@@ -813,7 +811,6 @@ OriginInsider
 orlandosentinel
 Oscium
 oscon
-ourhealthca
 oversecio
 OVH
 PacktPub
@@ -836,6 +833,7 @@ PeacockStore
 PeoplePattern
 pepsi
 percolate
+PERFMKTNG
 PeriscopeData
 PetEdge
 PhilipsHealth
@@ -1043,6 +1041,7 @@ SUBWAY
 successfactors
 sugru
 SuperMarioRunJP
+Surescripts
 SURGEConfHQ
 SurveyMonkey
 suzukiireland
@@ -1055,12 +1054,14 @@ SynertechInc
 Sysomos
 T14Haley
 TalentBinHiring
+talent_io
 TangerineBank
 Target
 TargetStyle
 tcm
 TDAmeritrade
 TD_Canada
+teamBlindapp
 TeamCSProject
 TechRaptr
 TEConnectivity
@@ -1140,7 +1141,6 @@ TwitterMktgMENA
 TwitterMktLatam
 TwitterSafety
 TwitterSurveys
-TWPERFMKTG
 tysofast
 Uber
 Uber_Brasil
@@ -1173,6 +1173,7 @@ VectrenCareers
 veeam
 Vegas
 VelcroBrand
+velocityconf
 Veracode
 verizon
 VerizonDeals
@@ -1192,6 +1193,7 @@ Visa
 VisitBritainGCC
 VividCortex
 VMware
+vmwarecloudmgmt
 VolvoCarUSA
 Vontobel_FP_CH
 Voya
