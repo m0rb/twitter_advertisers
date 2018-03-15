@@ -60,7 +60,6 @@ arbornetworks
 archerfxx
 ArenaSolutions
 AreYouThirstie
-Armor
 AskLloydsBank
 AtlanticNet
 Atlassian
@@ -127,7 +126,6 @@ bpkleo
 bpkleo2002
 braintree
 Bravotv
-brightfieldgrp
 Brocade
 brookstreetuk
 BRR_KarenT
@@ -277,7 +275,6 @@ DashHudson
 datadoghq
 DAVHQ
 DAZSI
-dbader_org
 DDMSLLC
 DeathWishMovie
 DellEMC
@@ -337,7 +334,6 @@ EFMurphyIII
 efultimatebreak
 EIUPerspectives
 ekhoinc
-elliottstone_ca
 Emailage
 Emily_Is_Emily
 EmpireFOX
@@ -375,7 +371,6 @@ fisherinvest
 fitbit
 fiverr
 FixAutoUSA
-flagfootball4
 flightdelays
 flonase
 FluentConf
@@ -444,6 +439,7 @@ GozCardsTest3
 GozCardsTest4
 GozCardsTest5
 GozCardsTest6
+grapeseedmedia
 Greenhouse
 GregAbbott_TX
 GreyhoundBus
@@ -479,7 +475,6 @@ heurekasoftware
 HillaryClinton
 HiltonHonors
 Hired_HQ
-Hitachi_US
 HLInvest
 HomeDepot
 homeisjchart
@@ -555,7 +550,6 @@ iShares
 iStock
 ITI_Jobs
 ITMedia_Online
-ItsForexTime
 JackBox
 JackThreads
 JaguarUSA
@@ -576,7 +570,6 @@ JiraServiceDesk
 johnheywood
 JoniForIowa
 JonLee_Recruit
-jordanmcd
 josecotto
 JoseCuervo
 joyent
@@ -676,7 +669,6 @@ mediatemple
 MeEncanta
 Meetup
 melindagates
-memsql
 mercari_jp
 mercari_wolf
 MercuriUrval_NL
@@ -718,7 +710,6 @@ MSFTDynamics365
 MS_Ignite
 mtestingads2
 MTV
-MuleSoft
 murthy_gozaik
 musicFIRST
 mybetcom
@@ -750,7 +741,6 @@ NetflixJP
 NetflixLAT
 NetflixNL
 NetflixUK
-NetotradeArb
 NETSCOUT
 Neutrogena
 new_gozaik
@@ -785,6 +775,7 @@ NRFnews
 NRM_inc
 NTT_Europe
 NutellaUSA
+nvidia
 nycHealthy
 NYSE
 nytimes
@@ -833,8 +824,8 @@ PeacockStore
 PeoplePattern
 pepsi
 percolate
-PERFMKTNG
 PeriscopeData
+Petco
 PetEdge
 PhilipsHealth
 PhilipsHealthNA
@@ -933,7 +924,6 @@ SANSInstitute
 SAPConcur
 SAPSmallBiz
 SARAhomecare
-savedroidAG
 schoolsEDU
 scottevest
 ScrubbingBubble
@@ -1041,7 +1031,6 @@ SUBWAY
 successfactors
 sugru
 SuperMarioRunJP
-Surescripts
 SURGEConfHQ
 SurveyMonkey
 suzukiireland
@@ -1054,14 +1043,12 @@ SynertechInc
 Sysomos
 T14Haley
 TalentBinHiring
-talent_io
 TangerineBank
 Target
 TargetStyle
 tcm
 TDAmeritrade
 TD_Canada
-teamBlindapp
 TeamCSProject
 TechRaptr
 TEConnectivity
@@ -1141,6 +1128,7 @@ TwitterMktgMENA
 TwitterMktLatam
 TwitterSafety
 TwitterSurveys
+TWPERFMKTG
 tysofast
 Uber
 Uber_Brasil
@@ -1173,7 +1161,6 @@ VectrenCareers
 veeam
 Vegas
 VelcroBrand
-velocityconf
 Veracode
 verizon
 VerizonDeals
@@ -1191,9 +1178,7 @@ virginmedia
 Virtual_Inst
 Visa
 VisitBritainGCC
-VividCortex
 VMware
-vmwarecloudmgmt
 VolvoCarUSA
 Vontobel_FP_CH
 Voya
