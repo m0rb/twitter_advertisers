@@ -17,6 +17,7 @@ Acura
 Adaptive_Sys
 AdeccoFrance
 AdHearthstone
+adidascareers
 adskFusion360
 adstest6
 adultswim
@@ -136,6 +137,7 @@ BuildMyCadillac
 Bunge_LC_Career
 burner
 Busbud
+BushmillsUSA
 BusinessOnTapp
 BusyTreats
 BuzzFeedNews
@@ -517,6 +519,7 @@ IBMSecurity
 ICE_Markets
 IDGTechTalk
 IDGTECHtalkAU
+ihgrewardsclub
 im_a_developer
 ImmoVerkauf_de
 impelo_io
@@ -550,6 +553,7 @@ iShares
 iStock
 ITI_Jobs
 ITMedia_Online
+ItsForexTime
 JackBox
 JackThreads
 JaguarUSA
@@ -653,6 +657,7 @@ marchmadness
 marilynbernstei
 marksandspencer
 MarriottRewards
+mashable
 MassageEnvy
 Mastercard
 MastercardBiz
@@ -665,6 +670,7 @@ MBNA_Canada
 MBUSA
 McAfee_Business
 McDonalds
+McDonaldsUK
 mediatemple
 MeEncanta
 Meetup
@@ -710,6 +716,7 @@ MSFTDynamics365
 MS_Ignite
 mtestingads2
 MTV
+MuleSoft
 murthy_gozaik
 musicFIRST
 mybetcom
@@ -824,6 +831,7 @@ PeacockStore
 PeoplePattern
 pepsi
 percolate
+PERFMKTNG
 PeriscopeData
 Petco
 PetEdge
@@ -924,6 +932,7 @@ SANSInstitute
 SAPConcur
 SAPSmallBiz
 SARAhomecare
+savedroidAG
 schoolsEDU
 scottevest
 ScrubbingBubble
@@ -1128,7 +1137,6 @@ TwitterMktgMENA
 TwitterMktLatam
 TwitterSafety
 TwitterSurveys
-TWPERFMKTG
 tysofast
 Uber
 Uber_Brasil
