@@ -61,6 +61,7 @@ arbornetworks
 archerfxx
 ArenaSolutions
 AreYouThirstie
+ASInvestmentsUS
 AskLloydsBank
 AtlanticNet
 Atlassian
@@ -525,7 +526,6 @@ im_a_developer
 ImmoVerkauf_de
 impelo_io
 Imperva
-Incapsula_com
 IncisiveCareers
 indeed
 IndeedAU
@@ -718,7 +718,6 @@ MSFTDynamics365
 MS_Ignite
 mtestingads2
 MTV
-MuleSoft
 murthy_gozaik
 musicFIRST
 mybetcom
@@ -750,7 +749,6 @@ NetflixJP
 NetflixLAT
 NetflixNL
 NetflixUK
-NetotradeArb
 NETSCOUT
 Neutrogena
 new_gozaik
@@ -891,7 +889,6 @@ realDonaldTrump
 RealexPayments
 ReassuranceDntl
 redbull
-RedHat
 RedHatLabs
 redlobster
 RedRockApps
@@ -1055,8 +1052,6 @@ SynertechInc
 Sysomos
 T14Haley
 TalentBinHiring
-talent_io
-talent_io_de
 TangerineBank
 Target
 TargetStyle
@@ -1238,6 +1233,7 @@ Xactly
 xamarinhq
 Xerox
 xfinitylatino
+xfinitymobile
 XTrade
 YahooFantasy
 yellowtailwine
