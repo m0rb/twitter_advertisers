@@ -718,6 +718,7 @@ MSFTDynamics365
 MS_Ignite
 mtestingads2
 MTV
+MuleSoft
 murthy_gozaik
 musicFIRST
 mybetcom
@@ -798,6 +799,7 @@ olivegarden
 onepeloton
 OnePlus_UK
 OnTheHub
+OpenPOWERorg
 OpenTable
 OpenTextDCTM
 OpposingViews
@@ -1052,6 +1054,8 @@ SynertechInc
 Sysomos
 T14Haley
 TalentBinHiring
+talent_io
+talent_io_de
 TangerineBank
 Target
 TargetStyle
