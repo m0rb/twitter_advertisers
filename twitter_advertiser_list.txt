@@ -45,6 +45,7 @@ AmericanExpress
 AmericanFunds
 AmericanXRoads
 amfam
+Ancestry
 Andrewlock
 Android
 AngiesList
@@ -346,13 +347,14 @@ EnvisageLive
 envisioninc
 eqdepot
 EricGreitens
+ErlangSolutions
 ESADE
 ESC_Conf
 ethstatus
 eventbrite
 EventbriteATL
 EventbriteSF
-ExactOnline
+Exact_NL
 Executrade
 Experis_US
 ExpertsPool
@@ -799,7 +801,6 @@ olivegarden
 onepeloton
 OnePlus_UK
 OnTheHub
-OpenPOWERorg
 OpenTable
 OpenTextDCTM
 OpposingViews
