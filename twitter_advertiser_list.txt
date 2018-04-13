@@ -62,7 +62,6 @@ arbornetworks
 archerfxx
 ArenaSolutions
 AreYouThirstie
-ASInvestmentsUS
 AskLloydsBank
 AtlanticNet
 Atlassian
@@ -472,6 +471,7 @@ hearthstone_it
 Hearthstone_ru
 hedenavaya
 Heineken_US
+HeinzKetchup_US
 hello
 HellsKitchenFOX
 here
@@ -813,7 +813,6 @@ OriginInsider
 orlandosentinel
 Oscium
 oscon
-Outback
 oversecio
 OVH
 PacktPub
@@ -1067,6 +1066,7 @@ TeamCSProject
 TechRaptr
 TEConnectivity
 TEDxCESalonED
+TEKsystems
 Tesco
 tescomobile
 testmonster2
