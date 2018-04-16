@@ -346,7 +346,6 @@ EnvisageLive
 envisioninc
 eqdepot
 EricGreitens
-ErlangSolutions
 ESADE
 ESC_Conf
 ethstatus
@@ -557,7 +556,7 @@ iShares
 iStock
 ITI_Jobs
 ITMedia_Online
-ItsForexTime
+ITV
 JackBox
 JackThreads
 JaguarUSA
@@ -598,6 +597,7 @@ KINDSnacks
 KingofNerdsTBS
 KingsmanMovie
 KingsProphets
+KITKAT
 kkarthik_15
 KnowBe4
 KodakMomentsapp
@@ -689,6 +689,7 @@ MichaelsStores
 Michel_Augustin
 MidClassStrong
 MillerLite
+MINIUK
 mint
 missionrace3
 MitsubishiHVAC
@@ -720,7 +721,6 @@ MSFTDynamics365
 MS_Ignite
 mtestingads2
 MTV
-MuleSoft
 murthy_gozaik
 musicFIRST
 mybetcom
@@ -1054,8 +1054,6 @@ SynertechInc
 Sysomos
 T14Haley
 TalentBinHiring
-talent_io
-talent_io_de
 TangerineBank
 Target
 TargetStyle
@@ -1066,11 +1064,11 @@ TeamCSProject
 TechRaptr
 TEConnectivity
 TEDxCESalonED
-TEKsystems
 Tesco
 tescomobile
 testmonster2
 texture
+Thalesesecurity
 TheAagardGroup
 TheBHF
 theCUBE
