@@ -62,6 +62,7 @@ arbornetworks
 archerfxx
 ArenaSolutions
 AreYouThirstie
+AshvsEvilDead
 AskLloydsBank
 AtlanticNet
 Atlassian
@@ -1054,6 +1055,8 @@ SynertechInc
 Sysomos
 T14Haley
 TalentBinHiring
+talent_io
+talent_io_de
 TangerineBank
 Target
 TargetStyle
