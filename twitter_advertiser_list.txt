@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 0patch
 13hours
 2020Companies
@@ -1257,4 +1255,3 @@ Zoosk
 ZTERS
 zulily
 ZurichNAnews
->>>>>>> parent of 90e4c30... Thu Apr 26 08:25:05 PDT 2018
