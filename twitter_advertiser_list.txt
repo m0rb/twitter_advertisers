@@ -3,10 +3,14 @@
 2020Companies
 23andMe
 3DRobotics
+4EnergyJustice
 76
 7eleven
 AARP
+AbbottGlobal
+AbbottNews
 ABC_TheCatch
+ABCTV
 aboveandbeyond
 AccentureJobsFR
 AccionUS
@@ -24,6 +28,7 @@ adultswim
 Adventurecom
 AdverOnline
 AdvilRelief
+Aerotek
 AFPhq
 ageofish
 AHS_Careers
@@ -37,6 +42,7 @@ alertlogic
 alienvault
 all_Laundry
 Alter_Solutions
+AlwaysOn_NY
 amazon
 AmazonJP
 AmazonKindle
@@ -45,7 +51,6 @@ AmericanExpress
 AmericanFunds
 AmericanXRoads
 amfam
-Ancestry
 Andrewlock
 Android
 AngiesList
@@ -62,7 +67,9 @@ arbornetworks
 archerfxx
 ArenaSolutions
 AreYouThirstie
+AskHalifaxBank
 AskLloydsBank
+AtlantaFX
 AtlanticNet
 Atlassian
 atomtickets
@@ -135,6 +142,7 @@ BRR_KarenT
 BuddyGit
 budlight
 BudLightCA
+budweiserusa
 BuildMyCadillac
 Bunge_LC_Career
 burner
@@ -149,8 +157,10 @@ C2International
 CAASCO
 Cadillac
 Calabrio
+CallawayGolf
 CallofDuty
 CamletMount
+CampingWorld
 CandyCrushSaga
 CandyCrushSoda
 candysodajp
@@ -184,6 +194,7 @@ carsdotcom
 CastAndCrewNews
 Cavalia
 CBRE
+CBS
 cdotechnologies
 CenturyLinkEnt
 CenturyLinkJobs
@@ -193,6 +204,7 @@ ChartMogul
 Checkmarx
 Cheesecake
 chevrolet
+ChevroletFC
 chicagotribune
 ChickfilA
 ChipotleTweets
@@ -214,6 +226,7 @@ CiscoLiveEurope
 CiscoNorway
 CiscoRussia
 CiscoSP360
+cisco_spain
 CiscoUKI
 Cision
 ciszek
@@ -233,18 +246,20 @@ CMT
 CNN
 CocaColaCo
 Codecademy
-CodeFights
-codeschool
+CodeSignalCom
 CogecoPeer1
 Cognizant
 coincenter
 Coinigy
 CollabNet
 CollaboratorSB
+CollegeBoard
 CollisionHQ
+comcast
 ComedyCentral
 ComedyDotTV
 Comparably
+Complex
 ComThingsSAS
 ConcurrencyInc
 Conoco
@@ -253,6 +268,7 @@ convince
 CoorsLight
 copromote
 CoreSpaceInc
+corninggorilla
 CorvilInc
 CostaCoffee
 CourvoisierUSA
@@ -269,6 +285,7 @@ crushpath
 cspac
 CSpire
 CulturRH
+CVSHealth
 cvspharmacy
 dailydot
 DailyDotMedia
@@ -279,6 +296,7 @@ DashHudson
 datadoghq
 DAZSI
 DDMSLLC
+deadpoolmovie
 DeathWishMovie
 DellEMC
 DellEMC_CI
@@ -287,11 +305,14 @@ DellEMCECS
 DellEMCIsilon
 DellEMCScaleIO
 DellEnterprise
+dellhome
 DellSmbUS
 DelMonte
+Deloitte
 Delta
 demoversion1111
 DennyM15
+DeseretNews
 DetroitMovie
 diamondcandles
 DICKS
@@ -301,7 +322,9 @@ digitalocean
 DiscoverGlobal
 dish
 DisneyAulani
+DisneyCruise
 Disney_IT
+Disneyland
 DocuSign
 dominos
 Domotalk
@@ -330,7 +353,6 @@ eBay_UK
 ECIConsulting
 Econocom_fr
 eConsultingRH
-EdamOrg
 EdmundOptics
 eehlee
 effenvodka
@@ -349,21 +371,26 @@ EricGreitens
 ESADE
 ESC_Conf
 ESPNNBA
+essential
 ethstatus
 eventbrite
 EventbriteATL
 EventbriteSF
 Exact_NL
+Excedrin
 Executrade
 Experis_US
 ExpertsPool
 EY_EOYUS
+EYnews
 EY_TAS
+facebook
 facetuneapp
 FandangoMiles
 FandangoNOW
 fantv
 farmfreshtoyou
+fbplatform
 FedEx
 festivalflix
 FifthThird
@@ -373,6 +400,7 @@ FinastraFS
 Firebase
 FireEye
 First_Backer
+firstrepublic
 fisherinvest
 fitbit
 fiverr
@@ -381,6 +409,7 @@ flightdelays
 flonase
 FluentConf
 footlocker
+Forbes
 Ford
 FortuneMagazine
 forty3north
@@ -415,6 +444,7 @@ generalelectric
 GenesisUSA
 GetBridge
 geteero
+getquip
 GetStocks
 Gett
 GettyImages
@@ -435,6 +465,7 @@ GoDaddy
 GoldenGoosePRO
 golfnow
 GoogleHome
+googlemaps
 gosolaramerica
 Gozaik1
 gozaikmonster12
@@ -446,7 +477,7 @@ GozCardsTest3
 GozCardsTest4
 GozCardsTest5
 GozCardsTest6
-grapeseedmedia
+GreatWestToday
 Greenhouse
 GregAbbott_TX
 GreyhoundBus
@@ -530,13 +561,13 @@ IFeelPretty
 im_a_developer
 ImmoVerkauf_de
 impelo_io
-Imperva
 IncisiveCareers
 indeed
 IndeedAU
 IndeedDeutsch
 Indeed_India
 IndeedSverige
+Independent_ie
 IndignationFilm
 INFICON
 influitive
@@ -545,8 +576,11 @@ Insightpool
 InsureMyPath
 intel
 IntelBusiness
+Intel_DE
+IntelFrance
 Inteliot
 Intel_Italia
+Intelnetwork
 IntelRetail
 IntelSWevents
 IntelUK
@@ -594,6 +628,7 @@ kaneisableinc
 KayJewelers
 KelleyBlueBook
 KernelMag
+KevinBekker
 kfc
 KHWhatNow
 KimKardashian
@@ -621,7 +656,6 @@ laurensimonelli
 LayerVault
 LAYS
 leadsift
-Leapforceathome
 lenarachel
 LenovoBusiness
 LenovoGov
@@ -636,6 +670,7 @@ LINEGAME_Japan
 LINE_tsumtsum_j
 LinkedIn
 LinkedInEditors
+linkedinselling
 LinkUp_Expo
 Lipton
 LisaLutoffPerlo
@@ -667,11 +702,11 @@ marchmadness
 marilynbernstei
 marksandspencer
 MarriottRewards
-mashable
 MassageEnvy
 Mastercard
 MastercardBiz
 MasterofNone
+Match
 maxmara
 mayankjainceo
 MazdaUSA
@@ -694,6 +729,7 @@ MetroPCS
 MichaelsStores
 Michel_Augustin
 MidClassStrong
+Military1Source
 MillerLite
 MINIUK
 mint
@@ -744,6 +780,7 @@ NBA2K
 NBATV
 NBCLilBigShots
 NBCNewYork
+NBCOlympics
 NDiVInc
 nearRavi
 nerdist
@@ -762,6 +799,8 @@ NETSCOUT
 Neutrogena
 newbalance
 new_gozaik
+Newjerseyjobs
+NewJerseySHARES
 NewPig
 newrelic
 NewsweekUK
@@ -792,9 +831,8 @@ NRFnews
 NRM_inc
 NTT_Europe
 NutellaUSA
-nvidia
 nycHealthy
-NYSE
+NYLInvestments
 nytimes
 Odoo
 offerup
@@ -813,6 +851,7 @@ OpenTextDCTM
 OpposingViews
 Oracle
 OrbitalATKJobs
+OrchardSupply
 OregonOnScout
 OReillySecurity
 Oreo
@@ -821,6 +860,7 @@ orlandosentinel
 Oscium
 oscon
 OurOcean
+OurTurnNJ
 OVH
 PacktPub
 PalladiumHotels
@@ -831,9 +871,12 @@ pandacable
 PandoraBrands
 pandoramusic
 PapaJohns
+PAPD911
 ParseIt
 PartsUnknownCNN
+patagonia
 PathScale
+pauldoyle4ct
 PayPal
 PayPalUK
 PB_Careers
@@ -844,7 +887,7 @@ pepsi
 percolate
 PERFMKTNG
 PeriscopeData
-Petco
+permanenttsb
 PetEdge
 PhilipsHealth
 Phillips66Gas
@@ -860,11 +903,13 @@ PlayHearthstone
 PlayHSBrasil
 PlayOverwatch
 pluralsight
+politico
 Porsche
 portfoliobooks
 Poshmarkapp
 Postmates
 powerimpossible
+ppifca
 PreEmptive
 priceline
 PrologicDesign
@@ -879,6 +924,7 @@ Quaker
 Qualcomm
 Quantcast
 QuestarAI
+QuickBooks
 QuickBooksUK
 quip
 QuizUp
@@ -898,9 +944,9 @@ realDonaldTrump
 RealexPayments
 ReassuranceDntl
 redbull
+RedHat
 RedHatLabs
 redlobster
-RedRockApps
 reeses
 RegalMovies
 REI
@@ -937,17 +983,20 @@ SamsungIoT
 SamsungMobile
 SamsungMobileUS
 SamsungUK
+SamsungUS
 SanpelFruit_US
 SANSInstitute
 SAPConcur
 SAPSmallBiz
 SARAhomecare
+SCENECard
 schoolsEDU
 scottevest
 ScrubbingBubble
 SDL
 Seamless
 SEA_PrimeTeam
+SearchingMovie
 Sears
 SearsDeals
 seeedstudio
@@ -958,6 +1007,7 @@ Sensodyne_US
 Sephora
 sethrobot
 SeventhSon
+sharemylesson
 ShareOneTime
 shastry007
 SHO_HAPPYish
@@ -979,6 +1029,7 @@ SMExaminer
 smiledirectclub
 snap_hr
 SNCF_Recrute
+SNFonNBC
 SNOW_jp_SNOW
 Snuggle_Bear
 socialmoms
@@ -1001,6 +1052,7 @@ Speedtest
 Spiceworks
 Spireon
 splinter_news
+Spokeo
 SportChek
 SportingLife
 SpotHero
@@ -1028,6 +1080,7 @@ stacye_peterson
 stallionagency
 Stamats
 StamfordHosp
+StanfordGSB
 Staples
 STAR
 Starbucks
@@ -1051,6 +1104,7 @@ sugru
 SuperMarioRunJP
 SURGEConfHQ
 SurveyMonkey
+SustainableSRE
 suzukiireland
 SyfyTV
 symantec
@@ -1075,7 +1129,6 @@ Tesco
 tescomobile
 testmonster2
 texture
-Thalesesecurity
 TheAagardGroup
 TheBHF
 theCUBE
@@ -1119,6 +1172,7 @@ ToyotaFanZone
 ToysRUs
 trackersearth
 tradegovuk
+tradegovuk_CI
 TradeIdeas
 TradeStConsult
 trailblazers
@@ -1128,10 +1182,12 @@ travelocity
 TRESemme
 tridentgum
 TridentSystemsI
+TriumphICDHQ
 trivago
 trove
 trulia
 TrunkClub
+TrustFX
 TryChangeUp
 TUMStweets
 TuneCore
@@ -1162,7 +1218,9 @@ ugo
 ultabeauty
 UnderArmour
 UnderdogJobs
+united
 unity3d
+UniversalORL
 UniversityCU
 UPROXX
 UPS
@@ -1186,6 +1244,7 @@ verizon
 VerizonDeals
 VerizonLatino
 VersyLATAM
+vervlife
 VeryChic
 Vessel
 Vevo
@@ -1198,6 +1257,7 @@ virginmedia
 Virtual_Inst
 Visa
 VisitBritainGCC
+VISITFLORIDA
 VMware
 VolvoCarUSA
 Vontobel_FP_CH
@@ -1209,12 +1269,14 @@ vzayek
 WagWalking
 WakeUpCallTNT
 Walgreens
+WalkingDead_AMC
 WalkMeInc
 Wallapop_US
 Walmart
 WalmartcomUS
 WaltDisneyWorld
 Wayfair
+WBHomeEnt
 WCWHomeTeam
 Webroot
 WebSummit
@@ -1225,6 +1287,7 @@ Wendys
 WeWork
 Wharton
 whoismrrobot
+WholeFoods
 Windex
 windowsdev
 wirecutter
@@ -1245,7 +1308,8 @@ WWLP22News
 Xactly
 xamarinhq
 Xerox
-XFINITY
+Xfinity
+xfinityhome
 xfinitylatino
 xfinitymobile
 XTrade
@@ -1255,6 +1319,7 @@ Yelp
 yesware
 YikYakApp
 Your_Daily_Dish
+YouTubeTV
 ZalesJewelers
 zhihao
 zillow
